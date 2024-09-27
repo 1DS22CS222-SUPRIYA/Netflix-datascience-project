@@ -1,1 +1,1 @@
-This is my second project working on data science. Thia project consists of dataset-netflix_titles.csv.
+This is my second project working on data science. This project consists of dataset-netflix_titles.csv.
